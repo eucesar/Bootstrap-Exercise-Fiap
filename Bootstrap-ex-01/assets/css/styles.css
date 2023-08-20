@@ -1,0 +1,74 @@
+:root {
+    --color-blue: #336699;
+    --color-pink: #DC143C;    
+    --font: 'Lato', sans-serif;
+    
+}
+
+body {
+    font-family: var(--font);
+}
+
+.nav-link:hover{
+    color: var(--color-blue);
+}
+
+.h1{
+    font-weight: 1000;
+    
+}
+
+.d{
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.titulo-bg{
+    font-size: 100px;
+}
+
+.p{
+    font-weight: 1000;
+    
+}
+
+.google{
+    width: 135px;
+}
+
+.icons{
+    font-size: 60px;
+}
+
+.img-moto{
+    width: 70%;
+}
+
+.bg-image {
+    background-image: url(../img/pexels-cottonbro-studio-3585091.jpg);    
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: hover;
+}
+.p2{
+    padding-left: 80px;
+}
+
+@media (max-width: 600px) {
+
+    .d{
+        display: flex;
+        flex-direction: column;
+    }
+    .titulo-bg{
+        font-size: 60px;
+    }
+
+    .p2{
+        padding-left: 0px;
+    }
+}
