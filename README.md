@@ -32,7 +32,7 @@ In this project, I leveraged the power of Bootstrap to create a sleek and visual
 **Check It Out:**
 Explore the live version of this project to see how Bootstrap's versatility and my design sensibilities come together to create a visually appealing and user-friendly website. Your feedback is highly appreciated!
 
-🌐 [Live Demo](https://www.example.com)
+🌐 [Live Demo]([https://www.example.com](https://bootstrap-exercise-fiap.vercel.app))
 
 Feel free to connect with me to discuss the design choices, technical challenges, and how this project demonstrates my commitment to delivering polished web experiences.
 
