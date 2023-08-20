@@ -40,7 +40,7 @@ Feel free to connect with me to discuss the design choices, technical challenges
 ## Download
 
 ```sh
-https://github.com/eucesar/HTML-CSS-JAVASCRIPT-Projects-done-in-class-FIAP.git
+https://github.com/eucesar/Bootstrap-Exercise-Fiap.git
 ```
 
 ## Cesar
