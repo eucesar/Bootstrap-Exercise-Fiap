@@ -52,7 +52,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
-    background-attachment: hover;
+    background-attachment:fixed;
 }
 .p2{
     padding-left: 80px;
